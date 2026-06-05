@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Sattwik Debnath
+**A programmer || Developer**
+
+Email Me 👉 ✉️ **sattwikboss547@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Tensorflow in python
+- 👯 **I’m looking to collaborate on:** -
+- 🤔 **I’m looking for help with:** -
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sattwikboss547@gmail.com
+- 😄 **Pronouns:** Ryon
+- ⚡ **Fun fact:** Just a philosopher
+
+
+
 ## Hi there 👋
 
 
